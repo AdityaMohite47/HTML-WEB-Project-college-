@@ -1,6 +1,7 @@
 # Expense Tracker
 
-Expense Tracker is a simple web application designed to help users track their expenses. It allows users to register, login, add, edit, and delete expense records.
+Expense Tracker is a simple web application designed to help users track their expenses. 
+It allows users to register, login, add, edit, and delete expense records.
 
 ## Features
 
@@ -34,7 +35,7 @@ Expense Tracker is a simple web application designed to help users track their e
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Aditya-Mohite-Github/Web-Project---I`
+1. Clone the repository: `git clone https://github.com/Aditya-Mohite-Github//HTML-WEB-Project-college-`
 2. Import the database schema from `expense_tracker.sql`.
 3. Update database connection settings in `dbconnection.php`.
 4. Ensure PHP and MySQL are installed on your server.
@@ -49,5 +50,5 @@ Expense Tracker is a simple web application designed to help users track their e
 
 ## Contributors
 
-- [Aditya Mohite](https://github.com/Aditya-Mohite-Github/)
+- [Aditya Mohite](https://github.com/AdityaMohite47/)
 
